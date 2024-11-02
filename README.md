@@ -2,7 +2,7 @@ Olá! Eu sou o Lipe!
 
 - 🔭 Hoje estou em busca de um trabalho com front-end
 - 🌱 Estudando HTML e CSS
-- 💬 Contate-me no email: lipesilvamendes@gmail.com
+- 💬 Contate-me no email: luisf.limamendes@gmail.com
 
 <div>
   <a href="https://github.com/lipezn7">
